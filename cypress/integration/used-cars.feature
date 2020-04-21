@@ -6,8 +6,9 @@ Feature: Used Cars
 
   Scenario: Able to see named brands in the UsedCars category
     When I navigate to 'UsedCars' page
-    Then I should be able to see named brands of used cars are available
-   
+    Then I should be able to see the number of brands available
+    And I should be able to see then number of brands with current listings
+    
   Scenario: Able to see number of Kia cars listed
     When I navigate to 'UsedCars' page
     Then I should be able to see the current number of 'Kia' cars listed
