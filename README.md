@@ -1,6 +1,6 @@
 # Cypress UI tests with cucumber and PageObject pattern
 
-In this project I have created an automation framework using Cypress, Cucumber while incorporating PageObject pattern.
+In this project I have created an automation test suite using Cypress, Cucumber while incorporating PageObject pattern.
 
 ### Installing
 
