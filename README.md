@@ -27,6 +27,10 @@ Commonly used steps can be defined under ```integration/common``` folder.
 ## Page Object Model Pattern
 For simplicity, instead creating a class/object for each page. A module is created and public functions are exported. These public functions can be imported and used in the step definitions. 
 
+## Exercise Results
+![named_brands_test](https://user-images.githubusercontent.com/11692981/79922454-0d31af00-8488-11ea-8b9f-561e090f11bd.png)
+![kia_test](https://user-images.githubusercontent.com/11692981/79922431-099e2800-8488-11ea-87f1-dd44038d5223.png)
+![hispano_test](https://user-images.githubusercontent.com/11692981/79922465-0efb7280-8488-11ea-8c74-a326a1f196c6.png)
 ## Built With
 
 * [Cypress](https://github.com/cypress-io/cypress) - The E2E testing framework used
